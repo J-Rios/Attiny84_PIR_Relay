@@ -1,5 +1,6 @@
 # Attiny84_PIR_Relay
-Attiny84 based system that control a relay through a PIR sensor (with Arduino code)
+Attiny84 based system that control a relay through a PIR sensor (with Arduino code).
+[See Image of the board](Image.png).
 -------------------------------------------------------------------------------------
 Proceso de funcionamiento:  
   1- Mira la luminosidad del ambiente.
