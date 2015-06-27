@@ -2,7 +2,7 @@
 Attiny84 based system that control a relay through a PIR sensor (with Arduino code).
 [See Image of the board](Image.png).
 -------------------------------------------------------------------------------------
-Proceso de funcionamiento:  
+Proceso de funcionamiento:
   1- Mira la luminosidad del ambiente.
   2- Compara la luminosidad con cierto umbral.
   3- Si todavia hay luz, se duerme durante 10 minutos, tras ello se despierta y pasa a 1.
